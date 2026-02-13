@@ -12,8 +12,8 @@ It contains four parts:
 
 # MiSArch
 
-An anonymized version of MiSArch's Docker deployment configuration can be found at:
-https://anonymous.4open.science/r/infrastructure-docker-E41B
+Please note that running MiSArch requires a significant amount of memory due to the database per service pattern and resulting amount of databases.
+We recommend at leats 64GB RAM to conduct actual experiments.
 
 ## License
 The entire replication package is licensed under the MIT license.

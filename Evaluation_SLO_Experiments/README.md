@@ -3,7 +3,7 @@
 When you want to recreate the SLO experiment runs, you first have to get a running setup of the MiSArch and the MiSArch Experiment Tool, preferably in a similar hardware surrounding and with Kubernetes, otherwise you can try with a local Docker setup.
 
 ## Setup MiSArch as System under Test
-The MiSArch Experiment Tool and MiSArch can be installed either in Kubernetes or locally in Docker.
+The CERES and MiSArch can be installed either in Kubernetes or locally in Docker.
 
 ### Install MiSArch incl. MiSArch Experiment Tool in a local Docker environment
 1. Clone the [MiSArch Docker Repository](https://github.com/misarch/infrastructure-docker)
